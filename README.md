@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Kaifstore Ecommerce](kaifstore-env-1.eba-mp8tp78s.eu-central-1.elasticbeanstalk.com/)
 
-- 💬 Ask me about **Vue.js, React, Javascript, Typescript and anything related to web**
+- 💬 Ask me about **Vue.js, React, Javascript, Typescript and anything related to web 😎**
 
 - 📫 How to reach me **andrei.cristea997@proton.me**
 
