@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **🦾 Deep Learning, 🧠 Neuroscience, 💼 AWS services**
 
-- 👯 I’m looking to collaborate on [Kaifstore Ecommerce](https://kaifstore-env-1.eba-mp8tp78s.eu-central-1.elasticbeanstalk.com/)
+- 👯 I’m looking to collaborate on [Kaifstore Ecommerce](http://kaifstore-env-1.eba-mp8tp78s.eu-central-1.elasticbeanstalk.com/)
 
 - 💬 Ask me about **Vue.js, React, Javascript, Typescript and anything related to web 😎**
 
