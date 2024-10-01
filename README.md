@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently interested in  **📍​​ Graph Databases, 🧠 Machine Learning and AI, 💼 AWS services**
 
-- ​🌎 Improved Travel Recommender System DestiRec: [DestiRec](https://destination-finder-production.up.railway.app/)
+- ​🌎 Improved Travel Recommender System DestiRec [DestiRec](https://destination-finder-production.up.railway.app/)
 
 - 👯 I’m looking to collaborate on [Kaifstore Ecommerce](http://kaifstore-env-1.eba-mp8tp78s.eu-central-1.elasticbeanstalk.com/)
 
