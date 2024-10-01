@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andrei</h1>
 <h3 align="center">Computer Science MSc student in TUM and Fullstack Developer at work. Live in Rosenheim and study in Munich.</h3>
 
-- 💼 I’m currently working for [Demoup Cliplister](https://www.demoup-cliplister.com/)
+- 💼 I’m currently working for [Siemens](https://www.siemens.com/de/de.html) as Graph Databases Operations
 
 - 🔭 Worked on the extension of the [paper.js library](https://github.com/apicore-engineering/paper.js) and [Flexopus MapBuilder](https://preview.map-builder.flexopus.dev/)
 
-- 🌱 I’m currently learning **🦾 Deep Learning, 🧠 Neuroscience, 💼 AWS services**
+- 🌱 I’m currently interested in  ** 🌎​ Graph Databases, 🧠 Machine Learning and AI, 💼 AWS services**
 
 - 👯 I’m looking to collaborate on [Kaifstore Ecommerce](http://kaifstore-env-1.eba-mp8tp78s.eu-central-1.elasticbeanstalk.com/)
 
