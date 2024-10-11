@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrei</h1>
-<h3 align="center">Computer Science MSc student in TUM and Fullstack Developer at work. Live in Rosenheim and study in Munich.</h3>
+<h3 align="center">Computer Science MSc student in TUM and Fullstack/Database Operations at work. Live in Rosenheim and study in Munich.</h3>
 
 - 💼 I’m currently working for [Siemens](https://www.siemens.com/de/de.html) as Graph Databases Operations
 
