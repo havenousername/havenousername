@@ -5,7 +5,7 @@
 
 - 🔭 Extended real libraries: [paper.js library](https://github.com/apicore-engineering/paper.js) and worked on [Flexopus MapBuilder](https://preview.map-builder.flexopus.dev/)
 
-- 🌱 Curios in  **📍​​ Cognitive Agents, 🧠 Recommender Systems, 💼 Cloud Technologies, 🤖 Robotics **
+- 🌱 Curios in  **📍​Cognitive Agents, 🧠 Recommender Systems, 💼 Cloud Technologies, 🤖 Robotics**
 
 - ​🌎 Master thesis: Hierarchical Knowledge Graphs in Travelling
 
