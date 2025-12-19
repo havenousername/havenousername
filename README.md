@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Vue.js, React, Javascript, Typescript and anything related to web 😎**
 
-- 📫 How to reach me **andrei.cristea997@proton.me**
+- 📫 How to reach me **cristea.andrei997@gmail.com**
 
 - ⚡ Fun fact **Just don't start thinking that you are thinking 😁**
 
