@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Andrei</h1>
-<h3 align="center">Computer Science MSc student in TUM and Fullstack/Database Operations at work. Live in Rosenheim and study in Munich.</h3>
+<h3 align="center">Ex-Siemens | MSc Informatics @ TUM</h3>
 
-- 💼 I’m currently working for [Siemens](https://www.siemens.com/de/de.html) as Graph Databases Operations
+- 💼 Knowledge Graphs, Graph Databases, RAG, Fullstack 
 
-- 🔭 Worked on the extension of the [paper.js library](https://github.com/apicore-engineering/paper.js) and [Flexopus MapBuilder](https://preview.map-builder.flexopus.dev/)
+- 🔭 Extended real libraries: [paper.js library](https://github.com/apicore-engineering/paper.js) and worked on [Flexopus MapBuilder](https://preview.map-builder.flexopus.dev/)
 
-- 🌱 I’m currently interested in  **📍​​ Graph Databases, 🧠 Machine Learning and AI, 💼 AWS services**
+- 🌱 Curios in  **📍​​ Cognitive Agents, 🧠 Recommender Systems, 💼 Cloud Technologies, 🤖 Robotics **
 
-- ​🌎 Improved Travel Recommender System DestiRec [DestiRec](https://destination-finder-production.up.railway.app/)
+- ​🌎 Master thesis: Hierarchical Knowledge Graphs in Travelling
 
-- 👯 I’m looking to collaborate on [Kaifstore Ecommerce](http://kaifstore-env-1.eba-mp8tp78s.eu-central-1.elasticbeanstalk.com/)
-
-- 💬 Ask me about **Vue.js, React, Javascript, Typescript and anything related to web 😎**
+- 💬 Ask me anything about **related to web 😎**
 
 - 📫 How to reach me **cristea.andrei997@gmail.com**
 
-- ⚡ Fun fact **Just don't start thinking that you are thinking 😁**
+- ⚡ Love to do in free time **Play chess and stargazing**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
