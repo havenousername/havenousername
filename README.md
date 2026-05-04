@@ -26,7 +26,7 @@
 
 I build at the intersection of **knowledge engineering** and **fullstack development** — designing ontologies, knowledge graphs, and semantic architectures, then shipping them as production systems.
 
-My master's thesis at TUM's Chair of Connected Mobility developed a formal OWL 2 ontology for hierarchical travel recommendation, including a node-based ACO algorithm for POI selection and a federated SPARQL pipeline over Wikidata/DBpedia constructing a 5-level geographic hierarchy (7.4M+ statements). User study showed 83.3% preference for the hierarchical approach.
+My [master's thesis](https://github.com/havenousername/master-thesis) at TUM's Chair of Connected Mobility developed a formal OWL 2 ontology for hierarchical travel recommendation, including a node-based ACO algorithm for POI selection and a federated SPARQL pipeline over Wikidata/DBpedia constructing a 5-level geographic hierarchy (7.4M+ statements). User study showed 83.3% preference for the hierarchical approach.
 
 ### What I Work With
 
