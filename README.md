@@ -26,7 +26,7 @@
 
 I build at the intersection of **knowledge engineering** and **fullstack development** — designing ontologies, knowledge graphs, and semantic architectures, then shipping them as production systems.
 
-My [master's thesis](https://github.com/havenousername) at TUM's Chair of Connected Mobility developed a formal OWL 2 ontology for hierarchical travel recommendation, including a node-based ACO algorithm for POI selection and a federated SPARQL pipeline over Wikidata/DBpedia constructing a 5-level geographic hierarchy (7.4M+ statements). User study showed 83.3% preference for the hierarchical approach.
+My master's thesis at TUM's Chair of Connected Mobility developed a formal OWL 2 ontology for hierarchical travel recommendation, including a node-based ACO algorithm for POI selection and a federated SPARQL pipeline over Wikidata/DBpedia constructing a 5-level geographic hierarchy (7.4M+ statements). User study showed 83.3% preference for the hierarchical approach.
 
 ### What I Work With
 
@@ -54,6 +54,6 @@ My [master's thesis](https://github.com/havenousername) at TUM's Chair of Connec
 | **All In One Sports** | 0-to-1 MVP: serverless on Supabase, agentic AI workflow (LangGraph), PayPal & e-sign integrations. Concept to launch in <3 months. |
 | **[Optifleet](https://github.com/havenousername/hackatum-2024)** | Automated taxi-robot allocation using integer programming with map fullstack demo |
 |**[Ada demonstratorhip](https://github.com/havenousername/ada)**| Creation of the course content, and educational material for teaching and learning ADA Programming Language |
-|**[Trajectory Generation]([https://github.com/havenousername/ada](https://github.com/havenousername/franka-trajectory-generation))**| Linear and circular trajectory generators for Franka Emika robotic arms using Gazebo + ROS 2. |
+|**[Trajectory Generation](https://github.com/havenousername/franka-trajectory-generation))**| Linear and circular trajectory generators for Franka Emika robotic arms using Gazebo + ROS 2. |
 
 <p align="center"><i>Currently exploring the space where structured knowledge meets generative AI.</i></p>
